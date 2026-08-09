@@ -1,0 +1,12 @@
+# Ignore all files under these data directories
+input_pdfs/**
+!input_pdfs/.gitkeep
+
+input_red_pdfs/**
+!input_red_pdfs/.gitkeep
+
+# ocr_output/**
+# !ocr_output/.gitkeep
+
+# ocr_red_output/**
+# !ocr_red_output/.gitkeep
