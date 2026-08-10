@@ -1,5 +1,3 @@
-![Fitness Survey OCR](banner.png)
-
 # Fitness Survey OCR - based on requirements for JP client
 
 This repository contains Jupyter Notebooks that read scanned fitness-survey PDF forms and extract the data into Excel files using Google's Gemini AI. The pipelines integrate robust Machine Learning (ML) and Deep Learning (DL) techniques to preprocess the raw data before feeding it into the core extraction models, ensuring high accuracy and reliability. This guide covers two ways to run the pipelines: **on your own computer (local)** or **in Google Colab**.
